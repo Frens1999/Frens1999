@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my personal projects.
-- 🌱 I’m currently learning Nest Js.
+- 🌱 I’m currently learning Nest Js!
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 
